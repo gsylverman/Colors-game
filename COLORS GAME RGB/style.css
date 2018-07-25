@@ -1,0 +1,68 @@
+body{
+    background: #232323;
+    margin: 0px;
+    text-shadow: 2px 2px 4px #000;
+}
+#container{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.square{
+    width: 30%;
+    margin:1.66%;
+    float: left;
+    padding-bottom: 30%;
+    background: pink;
+    border-radius: 15%;
+    transition: background-color 0.5s;
+    
+}
+h1{
+    background: silver;
+    text-align: center;
+    color: white;
+    margin: 0px;
+    padding-top: 0px;
+    width: 100%;
+}
+.easy{
+    background:green;
+    
+}
+
+
+.hard{
+    background: green;
+}
+#bara{
+    width: 100%;
+    background: grey;
+    text-align: center;
+}
+input{
+    font-size: 1.5em;
+    color:lightblue;
+    display: inline;
+    margin-left:2%;
+    background: inherit;
+    border: none;
+    padding: 5px;
+    text-shadow: 2px 2px 4px #000;
+}
+input:hover{
+    background:green;
+   color:white;
+   
+}
+#rez{
+    font-size: 1.2em;
+}
+
+h4{
+   width: 100%;
+   color: white;
+   font-size: 1.2em;
+   text-align: center;
+}
+
+
